@@ -13,3 +13,5 @@ Site detalhado com logo, navegação e contato. Além disso, será disponibiliza
 - Ajustes na Header
 
 - Ajustando Logotipo
+
+- Responsividade do Projeto

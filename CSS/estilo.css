@@ -17,10 +17,22 @@ header{
     /* largura  */
     font-size: 1.8rem;
     padding: 1rem;
-    padding-top: 1rem;
     position: fixed;
     width: 100%;
     z-index: 1;
+}
+@media(mind-width: 300px) and (max-width: 820px){
+    header{
+        background: linear-gradient(to right, #0000dc, #00bfff );
+        color: #fff;
+        /* largura  */
+        font-size: 1.6rem;
+        text-align: center;
+        padding: 0.5rem;
+        position: fixed;
+        width: 100%;
+        z-index: 1;
+    }
 }
 footer{
     background: linear-gradient(to right, #0000dc, #00bfff );
@@ -39,8 +51,7 @@ footer{
     margin: 0 auto;
     max-width: 95%;
 }
-.conteudo-topo{
-    font-size: 1.6rem;
+.container{
     background-color: #fff;
     /* Espaço entre o conteúdo */
     font-size: 1.6rem;
@@ -52,6 +63,21 @@ footer{
     max-width: 80%;
     padding-top: 3rem;
     border-radius: 20px;
+}
+@media(mind-width: 300px) and (max-width: 820px){
+    .container{
+        background-color: #fff;
+        /* Espaço entre o conteúdo */
+        font-size: 1.6rem;
+        background-color: #fff;
+        padding: 1.5rem;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 15rem;
+        max-width: 90%;
+        padding-top: 3rem;
+        border-radius: 20px;
+    }
 }
 h1{
     font-size: 2.5rem;
@@ -70,36 +96,46 @@ figure{
 }
 .imagens-site{
     /* Modifica as bordas no sentido horário (esquerda-direita) */
-    border-radius: 5px ;
+    border-radius: 5px;
     width: 20%;
     height: 5%;
+}
+@media(min-width: 300px) and (max-width: 820px){
+
+    .imagens-site{
+    /* Modifica as bordas no sentido horário (esquerda-direita) */
+    border-radius: 3px;
+    width: 90%;
+    height: 70%;
+}
+
 }
 #logo-topo{
     width: 7%;
     height: 4%;
     margin-left: 10rem;
 }
+@media(mind-width: 300px) and (max-width: 820px){
+    #logo-topo{
+        width: 15%;
+        height: 8%;
+        margin: 0 auto;
+    }
+}
+
 #eng{
     border-radius: 100%;
     width: 15%;
     height: 7%;
 }
-@media(min-width: 280px) and (max-width: 820px){
+@media(min-width: 300px) and (max-width: 820px){
     #eng{
         border-radius: 100%;
         width: 60%;
         height: 40%;
     }
 }
-@media(min-width: 280px) and (max-width: 820px){
-    .imagens-site{
-    /* Modifica as bordas no sentido horário (esquerda-direita) */
-    border-radius: 20px 20px 20px 20px ;
-    width: 90%;
-    height: 70%;
-}
 
-}
 #compras{
     background-color: #ffff00;
     width: 150px;
@@ -162,6 +198,15 @@ nav{
     margin-right: 5%;
     margin-bottom: 5px;
 }
+@media(mind-width: 300px) and (max-width: 820px){
+    nav{
+        text-align: center;
+        font-size: 1.6rem;
+        word-spacing:10px;
+        margin-bottom: 1px;
+    }
+}
+
 a{
     text-decoration: none;
     color: #fff;
