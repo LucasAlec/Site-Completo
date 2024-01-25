@@ -15,3 +15,5 @@ Site detalhado com logo, navegação e contato. Além disso, será disponibiliza
 - Ajustando Logotipo
 
 - Responsividade do Projeto
+
+- Adicionando WhatsApp no Site

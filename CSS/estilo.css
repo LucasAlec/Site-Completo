@@ -136,15 +136,15 @@ figure{
     }
 }
 
-#compras{
-    background-color: #ffff00;
-    width: 150px;
-    height: 100px;
+#whats{
+    width: 100px;
+    height: 170px;
     right: 0;
+    bottom: 0;
     position: fixed;
     text-align: center;
-    margin-top: 6rem;
     z-index: 1;
+    margin-right: 2px;
 }
 #grid-conteudo{
     background-color: #dcdcdc;
