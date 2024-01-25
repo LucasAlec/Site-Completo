@@ -17,3 +17,6 @@ Site detalhado com logo, navegação e contato. Além disso, será disponibiliza
 - Responsividade do Projeto
 
 - Adicionando WhatsApp no Site
+
+- Inserindo Vídeo
+Usando o método `iframe` para incorporar o vídeo no site.
