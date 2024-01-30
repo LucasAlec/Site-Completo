@@ -1,3 +1,5 @@
+/* Inicio de Estrutura*/
+
 *{
     margin: 0;
     border: 0;
@@ -51,6 +53,16 @@ footer{
     margin: 0 auto;
     max-width: 95%;
 }
+.conteudo-corpo{
+    font-size: 1.6rem;
+    background: linear-gradient(to right, #0000dc, #00bfff );
+    /* Espaço entre o conteúdo */
+    padding: 1.5rem;
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 100%;
+    padding-top: 20rem;
+}
 .container{
     background-color: #fff;
     /* Espaço entre o conteúdo */
@@ -79,6 +91,9 @@ footer{
         border-radius: 20px;
     }
 }
+
+/* Inicio de fontes do site */
+
 h1{
     font-size: 2.5rem;
 }
@@ -94,6 +109,9 @@ h4{
 figure{
     text-align: center;
 }
+
+/*Controles e imagens*/
+
 .imagens-site{
     /* Modifica as bordas no sentido horário (esquerda-direita) */
     border-radius: 5px;
@@ -108,12 +126,17 @@ figure{
     width: 90%;
     height: 70%;
 }
-
 }
+
+.imagens-corpo{
+    width: 95%;
+    height: 80%;
+}
+
 #logo-topo{
     width: 10%;
     height: 7%;
-    margin-left: 10rem;
+    margin-left: 15rem;
 }
 @media(mind-width: 300px) and (max-width: 820px){
     #logo-topo{
@@ -174,8 +197,36 @@ figure{
     background-color: #fff;
     text-align: center;
     padding: 2px;
-
 }
+/*   CONFIGURAÇÃO DE GRIDS PARA O TOPO     */
+
+#grid-conteudo-corpo{
+    text-align: center;
+    border-radius: 20px;
+}
+.grid-corpo{
+    display: grid;
+    grid-template-columns: 480px 1fr;
+    grid-gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+@media(min-width: 300px) and (max-width: 820px){
+    .grid-corpo{
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
+        grid-gap: 1px;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+}
+.grid div#corpo{
+    text-align: center;
+    padding: 1px;
+    padding-bottom: 5px;
+}
+
+/*   FIM DE CONFIGURAÇÃO DE GRIDS PARA O TOPO     */
 #formulario{
     background-color: #dcdcdc;
 }
