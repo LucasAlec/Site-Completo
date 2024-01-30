@@ -26,3 +26,8 @@ Usando o método `iframe` para incorporar o vídeo no site.
 - Responsividade do WhatsApp
 
 - Ajustes no Topo
+
+- Ajustes no Título
+
+- Criar Listas
+Usando os comandos `ul`para listas desordenadas e `li` para lista ordenadas.
