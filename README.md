@@ -20,3 +20,9 @@ Site detalhado com logo, navegação e contato. Além disso, será disponibiliza
 
 - Inserindo Vídeo
 Usando o método `iframe` para incorporar o vídeo no site.
+
+- Modificando H1 e Rodapé
+
+- Responsividade do WhatsApp
+
+- Ajustes no Topo
