@@ -111,6 +111,7 @@ h1{
 }
 h2{
     font-size: 1.9rem;
+    text-align: center;
 }
 h2#titulo-topo{
     font-size: 3rem;
@@ -313,4 +314,10 @@ a:hover{
         width: 90%;
         height: 90%;
     }
+}
+/*CRIANDO UM SELETOR*/
+li{
+    text-align: left;
+    font-weight: bold;
+    margin-left: 3rem;
 }
