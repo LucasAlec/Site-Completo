@@ -44,6 +44,11 @@ footer{
     text-align: center;
     text-shadow: 1px 1px 1px #000;
 }
+@media(mind-width: 300px) and (max-width: 620px){
+    .nocell{
+        display: none;
+    }
+}
 .conteudo{
     font-size: 1.6rem;
     background-color: #fff;
@@ -213,6 +218,13 @@ figure{
         height: 30%;
     }
 }
+.avaliacoes{
+    width: 30%;
+    height: 20%;
+}
+
+/* CONTROLE DE GRIDS */
+
 #grid-conteudo{
     background-color: #fff;
     color: #000;
