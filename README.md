@@ -57,3 +57,7 @@ Adição do seletor `figurecaption`
 Configuração dos links ancoras no site.
 
 - Cores
+Tons de cores a partir do comando `background: linear-gradient(to right, #000, #6A5ACD);`
+
+- Redes Sociais
+Inserindo logos e links das redes sociais.
