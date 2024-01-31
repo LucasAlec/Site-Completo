@@ -236,6 +236,7 @@ figure{
     margin: 0 auto;
     color: #fff;
     text-shadow: 1px 1px #000;
+    text-align: center;
 }
 @media(min-width: 300px) and (max-width: 820px){
     .grid-corpo{
