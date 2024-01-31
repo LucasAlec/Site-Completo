@@ -1,6 +1,6 @@
 # Site Completo (Projeto Final)
 
-Site detalhado com logo, navegação e contato. Além disso, será disponibilizado de conteúdo em vídeo.
+Site detalhado com logo, navegação e contato. Além disso, será disponibilizado de conteúdo em vídeo. Além do próprio HTML e CSS (Frontend), será utilizado JavaScript (Backend) no projeto. Na ultima parte será implementado um login com user e senha, onde o mesmo deve buscar no banco de dados (MySQL) e verificar se existe o usuário, senha atrelada ao usuário e, por fim, dá o retorno.
 
 ## Objetivo
 
@@ -65,3 +65,6 @@ Inserindo logos e links das redes sociais.
 - Primeiro Conteúdo com ChatGPT
 
 - Pesquisas Direcionadas com o ChatGPT
+
+- Implementando JavaScript
+Variável e Prompt, criar outra página para o site interno (clonar).
