@@ -68,3 +68,6 @@ Inserindo logos e links das redes sociais.
 
 - Implementando JavaScript
 Variável e Prompt, criar outra página para o site interno (clonar).
+
+- Variável e Prompt
+Cria espaço na memória para armazenar informaçoes do usuário usando a linguagem de programação JavaScript.
