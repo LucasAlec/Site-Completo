@@ -63,3 +63,5 @@ Tons de cores a partir do comando `background: linear-gradient(to right, #000, #
 Inserindo logos e links das redes sociais.
 
 - Primeiro Conteúdo com ChatGPT
+
+- Pesquisas Direcionadas com o ChatGPT
