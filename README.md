@@ -51,3 +51,9 @@ Foi-se criada uma nova classe `avaliacoes` para realizar alterações no novo gr
 Adição de botão com classe `botao-acao`
 
 - Botões de Produtos
+Adição do seletor `figurecaption`
+
+- Links Âncora
+Configuração dos links ancoras no site.
+
+-

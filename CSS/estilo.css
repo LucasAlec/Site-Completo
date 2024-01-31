@@ -346,6 +346,15 @@ a:hover{
     border-bottom: solid #fff;
     text-shadow: 2px 2px 3px #000;
 }
+#cursos{
+    padding-top: 35rem;
+}
+#dicas{
+    padding-top: 25rem;
+}
+#professor{
+    padding-top: 10rem;
+}
 @media(min-width: 300px) and (max-width: 820px){
 
     div.video{
