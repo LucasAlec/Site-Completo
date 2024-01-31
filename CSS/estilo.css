@@ -173,6 +173,13 @@ figure{
     border-radius: 100%;
     width: 15%;
     height: 7%;
+    background-color: #fff;
+}
+.engenheiro{
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+    background: linear-gradient(to right, #0000cd, #00bfff);
+    border-radius: 20px;
 }
 @media(min-width: 300px) and (max-width: 820px){
     #eng{
