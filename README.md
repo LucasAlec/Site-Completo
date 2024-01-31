@@ -56,4 +56,4 @@ Adição do seletor `figurecaption`
 - Links Âncora
 Configuração dos links ancoras no site.
 
--
+- Cores
