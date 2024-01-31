@@ -48,4 +48,6 @@ Usando os comandos `ul`para listas desordenadas e `li` para lista ordenadas.
 Foi-se criada uma nova classe `avaliacoes` para realizar alterações no novo grupo de imagens adicionado. Adição de tag `mark` para que as imagens apareçam em movimento no site. Implementação da tag `span` e classe `nocell`.
 
 - Botão de Chamada
-Adição de botão com classe `bota-acao`
+Adição de botão com classe `botao-acao`
+
+- Botões de Produtos
