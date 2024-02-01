@@ -74,3 +74,5 @@ Cria espaço na memória para armazenar informaçoes do usuário usando a lingua
 
 - Valores de Variáveis para Personalização
 Cria uma div para inserir o nome do usuário e que permita personalizar da melhor maneira possível.
+
+- CSS para a Personalização
